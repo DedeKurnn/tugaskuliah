@@ -61,7 +61,7 @@ int main()
         cout << "Kembalian kamu = " << kembalian;
     }
 
-    // Tidak dapat diskon
+    // Tidak mendapat diskon
     else {
         jumlahDiskon = totalBelanjaBuku * 0;
         totalBayar = totalBelanjaBuku - jumlahDiskon;
